@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <?xml version="4.0"?>
+=======
+<?xml version="1.0"?>"mouhahahahaha"
+>>>>>>> master
 <question type="multichoice">
 	<name>
 		<text>Demo question à choix multiples</text>
