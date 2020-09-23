@@ -33,7 +33,7 @@
         <penalty>1</penalty>
         <defaultgrade>1</defaultgrade>
         <answer fraction="100">
-                <text>Ceci est la bonne réponse</text>
+                <text>Bonjour mon ami !</text>
                 <feedback>
                         <text>Bravo ! Jeune entrepreneur !</text>
                 </feedback>
