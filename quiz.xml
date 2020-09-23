@@ -10,9 +10,9 @@
         <penalty>1</penalty>
         <defaultgrade>1</defaultgrade>
         <subquestion>
-                <text>Premier item de la première paire</text>
+                <text>Tu préfères demander de l'argent à ta grand-mère ou rouler en porsche tous les jours ?</text>
                 <answer>
-                        <text>Second item de le première paire</text>
+                        <text>La question est vite répondue</text>
                 </answer>
         </subquestion>
         <subquestion>
@@ -35,7 +35,7 @@
         <answer fraction="100">
                 <text>Ceci est la bonne réponse</text>
                 <feedback>
-                        <text>Bravo !</text>
+                        <text>Bravo ! Jeune entrepreneur !</text>
                 </feedback>
         </answer>
         <answer fraction="0">
